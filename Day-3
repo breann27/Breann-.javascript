@@ -13,6 +13,34 @@ const addition=(n1,n2)=>{
     return n1+n2;
 }; 
 
+
+<<-----------------------------------(Task-2)----------------------------------->>
 //ways to write es5 function 
+1.Function ConstructorFunction (parameters){
+   this.property=value;
+   this.method =function(){
+
+   };
+}
+
+2.Function functionName(parameters){
+
+}
+
+
 //ways to write es6 function
-//difference between both the methods
+1.Arrow functions
+ constfunctionName=(parameters)=>{
+
+}
+
+2.Default parameters.
+  function functionName(parameter=defaultvalue){
+
+}
+
+
+//Difference between both the methods
+Difference between both the methods is the introduction of new methods and syntax for handling common task in javascript.
+Arrow functions for anonymous functions.
+
