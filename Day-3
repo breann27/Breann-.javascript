@@ -1,0 +1,18 @@
+<<----------------------------------- Day-3(Task -1 )----------------------------------->>
+function add2Number(n1,n2){
+    const sum =n1*n2;
+    return sum;}
+
+
+const add= function(n1,n2){
+    return n1+n2;
+};
+
+//ES6-- Arrow function
+const addition=(n1,n2)=>{
+    return n1+n2;
+}; 
+
+//ways to write es5 function 
+//ways to write es6 function
+//difference between both the methods
